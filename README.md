@@ -45,3 +45,13 @@ Considerations:
   their job simpler.
 * That said, I can get a Raspberry Pi prototype up in less time, and I already
   understand how to do it. I think I should start with that.
+
+Parts:
+
+* [Logitech G213 Prodigy Keyboard](https://www.amazon.com/Logitech-Keyboard-Dedicated-Controls-Spill-Resistant/dp/B01K48R5V4), $46.78
+* [Micro-USB to USB-A cable](https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B0711PVX6Z/ref=sr_1_3_acs_sk_pb_1_sl_1?ie=UTF8&qid=1542049211&sr=8-3-acs), $4.99
+* [Raspberry Pi Zero](https://www.adafruit.com/product/2885), $5.00
+* [USB Mini Hub with Power Switch - OTG Micro-USB](https://www.adafruit.com/product/2991), $4.95
+* [Adafruit Raspberry Pi Zero Case](https://www.adafruit.com/product/3252), $4.75
+
+Total: $66.47 + shipping
